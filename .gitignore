@@ -1,0 +1,10 @@
+.env
+/.env
+node_modules/
+__pycache__/
+temp*.txt
+output.txt
+pytest_result.txt
+reporte_*.txt
+.secrets_baseline.json
+frontend/node_modules
